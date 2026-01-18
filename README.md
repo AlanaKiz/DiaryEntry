@@ -1,10 +1,10 @@
-## 📘 My Diary Web App
+# 📘 My Diary Web App
 
 A simple and clean **personal diary web page** built using **HTML, CSS, and JavaScript**.  
 This project allows users to write, save, view, and clear diary entries **based on date**, with data stored locally in the browser.
 
 
-# ✨ Features
+## ✨ Features
 
 - 📅 Select a date and write diary entries  
 - 💾 Save entries using browser `localStorage`  
@@ -14,14 +14,14 @@ This project allows users to write, save, view, and clear diary entries **based 
 - ⚡ No backend required (pure frontend project)
 
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - **HTML** – Structure of the web page  
 - **CSS** – Styling and blue-themed layout  
 - **JavaScript** – Logic, DOM manipulation, and localStorage handling  
 
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 my-diary/
 │── index.html   # Main HTML file
@@ -30,7 +30,7 @@ my-diary/
 │── README.md    # Project documentation.
 
 
-# 🚀 How It Works
+## 🚀 How It Works
 
 - The user selects a date using the date picker.
 - Diary text is written in the textarea.
@@ -39,7 +39,7 @@ my-diary/
 - When a date is selected again, its entry is automatically loaded.
 - Clicking **Clear Entry** deletes the entry for that date.
 
-# 📌 Purpose of This Project
+## 📌 Purpose of This Project
 
 This project was built **for learning purposes**, to understand:
 - Basic web page structure
@@ -47,13 +47,13 @@ This project was built **for learning purposes**, to understand:
 - DOM manipulation and event handling
 - Using `localStorage` for data persistence
 
-# 🌱 Future Improvements
+## 🌱 Future Improvements
 
 - Add search functionality  
 - Add dark mode  
 - Export diary entries  
 - Improve mobile responsiveness  
 
-# 👤 Author
+### 👤 Author
 
 Created by **AlanaKiz**  
